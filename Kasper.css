@@ -212,7 +212,7 @@ header .form i {
 .landing {
     min-height: 100vh;
     background-color: #1f2021;
-    background-image: url(../Images/landing.jpg);
+    background-image: url(landing.jpg);
     background-size: cover;
     position: relative;
 }
@@ -360,7 +360,7 @@ header .form i {
     padding-bottom: var(--sectionpaddding);
     height: 600px;
     position: relative;
-    background-image: url(../Images/design-features.jpg);
+    background-image: url(design-features.jpg);
     background-size: cover;
     display: flex;
     align-items: center;
@@ -596,7 +596,7 @@ header .form i {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     text-align: center;
-    background-image: url(../Images/stats.png);
+    background-image: url(stats.png);
     background-size: cover;
     position: relative;
 }
@@ -800,7 +800,7 @@ header .form i {
 .quote {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url("../images/quote.jpg");
+    background-image: url("quote.jpg");
     background-size: cover;
     position: relative;
     text-align: center;
@@ -952,7 +952,7 @@ header .form i {
 .subscribe {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url(../Images/subscribe.jpg);
+    background-image: url(subscribe.jpg);
     background-size: cover;
     position: relative;
     color: white;
@@ -1140,7 +1140,7 @@ header .form i {
 .footer {
     padding-top: calc(var(--section-padding) / 2);
     padding-bottom: calc(var(--section-padding) / 2);
-    background-image: url("../Images/wp9127446.webp");
+    background-image: url("wp9127446.webp");
     background-size: cover;
     position: relative;
     color: white;
